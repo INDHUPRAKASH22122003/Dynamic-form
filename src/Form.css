@@ -1,0 +1,35 @@
+.brder{
+    background-color: whitesmoke;
+    width: 300px;
+    border: 35px solid hsl(210, 88%, 52%);
+    padding: 100px;
+    margin: 50px;
+    text-align: left;
+    font-size: 16px;
+}
+input[type]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.button5{
+    background-color: white;
+    color: black;
+    border: 3px solid #555555;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button5:hover{
+    background-color: #555555;
+    color: white;
+}
